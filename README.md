@@ -7,7 +7,10 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I am a football and
 
-## Connect with Me
+## Social Media
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px">](mailto:kristiyan.michaylov@outlook.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/kristiyan-michaylov/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg" width="30px">](https://www.goodreads.com/user/show/175989003-kristiyan-michaylov)
 
 ## Languages & Tools
 [<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][goplaylist]
@@ -41,9 +44,6 @@
 [golandplaylist]: https://www.jetbrains.com/help/go/
 
 <br />
-<br />
-
----
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMichaylov&size_weight=0.5&count_weight=0.5)
