@@ -10,8 +10,9 @@
 ## Connect with Me
 
 ## Languages & Tools
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][javaplaylist]
 [<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][goplaylist]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][javaplaylist]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][pythonplaylist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][dbplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][webplaylist]
@@ -23,8 +24,21 @@
 [<img align="left" alt="GitHub Actions" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" style="padding-right:10px;" />][cicdplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][gitplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][gitplaylist]
+[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscodeplaylist]
+[<img align="left" alt="GoLand" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />][golandplaylist]
 
-
+[goplaylist]: https://go.dev/doc/
+[javaplaylist]: https://docs.oracle.com/en/java/
+[pythonplaylist]: https://docs.python.org/3/
+[dbplaylist]: https://www.postgresql.org/docs/
+[webplaylist]: https://developer.mozilla.org/en-US/docs/Web
+[reactplaylist]: https://react.dev/learn
+[cloudplaylist]: https://cloud.google.com/docs
+[devopsplaylist]: https://developer.hashicorp.com/terraform/docs
+[cicdplaylist]: https://docs.github.com/en/actions
+[gitplaylist]: https://git-scm.com/doc
+[vscodeplaylist]: https://code.visualstudio.com/docs
+[golandplaylist]: https://www.jetbrains.com/help/go/
 
 <br />
 <br />
