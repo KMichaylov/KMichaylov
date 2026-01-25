@@ -1,12 +1,11 @@
 # Hi there, I am Kristiyan 👋
-
-- 🔭 I’m currently working as Junior Software Engineer @ IKEA
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I am a football and
-
+I'm a software engineer from Bulgaria 🇧🇬, currently living in the Netherlands 🇳🇱
+- 🧑🏻‍💻 Junior Software Engineer @ 🛒𝐈𝐊𝐄𝐀🇸🇪
+- 👩🏻‍🎓 Studied Computer Science at the University of Twente and Eindhoven University of Technology in the Netherlands
+- 💭 Currently learning more about DevOps and SRE!
+- 🖥️ Passionate about video games
+- ⚽ Avid football fan
+- 🏐 Volleyball enjoyer
 ## Social Media
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px">](mailto:kristiyan.michaylov@outlook.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/kristiyan-michaylov/)&nbsp;&nbsp;&nbsp;&nbsp;
