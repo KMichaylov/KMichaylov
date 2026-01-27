@@ -1,8 +1,8 @@
 # Hi there, I am Kristiyan 👋
 I'm a software engineer from Bulgaria 🇧🇬, currently living in the Netherlands 🇳🇱
-- 🧑🏻‍💻 Junior Software Engineer @ _**IKEA**_
-- 👩🏻‍🎓 Studied Computer Science at the University of Twente and Eindhoven University of Technology in the Netherlands
-- 💭 Currently learning more about DevOps and SRE!
+- 🧑🏻‍💻 Junior Software Engineer @ **IKEA**
+- 👩🏻‍🎓 Holding a BSc in Technical Computer Science from the University of Twente and an MSc in Computer Science & Engineering from Eindhoven University of Technology
+- 💭 Currently learning more about DevOps and SRE
 - 🖥️ Passionate about video games
 - ⚽ Avid football fan
 - 🏐 Volleyball enjoyer
