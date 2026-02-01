@@ -9,7 +9,7 @@ I'm a software engineer from Bulgaria 🇧🇬, currently living in the Netherla
 ## Social Media
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px">](mailto:kristiyan.michaylov@outlook.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/kristiyan-michaylov/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg" width="30px">](https://www.goodreads.com/user/show/175989003-kristiyan-michaylov)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg" width="30px">](https://www.goodreads.com/user/show/175989003-kristiyan-michaylov)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" width="30px">](https://letterboxd.com/LuckyOwl24/)
 
 ## Languages & Tools
