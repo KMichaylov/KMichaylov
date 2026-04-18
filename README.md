@@ -4,8 +4,7 @@ I'm a software engineer from Bulgaria 🇧🇬, currently living in the Netherla
 - 👩🏻‍🎓 Holding a BSc in Technical Computer Science from the University of Twente and an MSc in Computer Science & Engineering from Eindhoven University of Technology
 - 💭 Currently learning more about DevOps and SRE
 - 🖥️ Passionate about video games
-- ⚽ Avid football fan
-- 🏐 Volleyball enjoyer
+- ⚽ Avid sports fan
 ## Social Media
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30px">](mailto:kristiyan.michaylov@outlook.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">](https://www.linkedin.com/in/kristiyan-michaylov/)&nbsp;&nbsp;&nbsp;&nbsp;
